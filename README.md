@@ -2,6 +2,7 @@
 
 ## Overview
 This Chrome extension provides live data for NSE Nifty and BankNifty directly in your browser. Keep track of real-time market information conveniently.
+![Extension Screenshot](https://github.com/iamankanghosh/Nifty-BankNifty-Live-Data-Extension/blob/main/demo.png)
 
 ## Installation
 Follow these steps to load the extension in Chrome:
