@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', function () {
 
   function fetchData(url, successCallback, errorCallback) {
